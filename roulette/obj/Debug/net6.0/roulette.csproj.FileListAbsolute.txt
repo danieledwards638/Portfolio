@@ -1,0 +1,15 @@
+C:\Users\daniel.edwards.638_a\Desktop\roulette\bin\Debug\net6.0\roulette.exe
+C:\Users\daniel.edwards.638_a\Desktop\roulette\bin\Debug\net6.0\roulette.deps.json
+C:\Users\daniel.edwards.638_a\Desktop\roulette\bin\Debug\net6.0\roulette.runtimeconfig.json
+C:\Users\daniel.edwards.638_a\Desktop\roulette\bin\Debug\net6.0\roulette.dll
+C:\Users\daniel.edwards.638_a\Desktop\roulette\bin\Debug\net6.0\roulette.pdb
+C:\Users\daniel.edwards.638_a\Desktop\roulette\obj\Debug\net6.0\roulette.csproj.AssemblyReference.cache
+C:\Users\daniel.edwards.638_a\Desktop\roulette\obj\Debug\net6.0\roulette.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.edwards.638_a\Desktop\roulette\obj\Debug\net6.0\roulette.AssemblyInfoInputs.cache
+C:\Users\daniel.edwards.638_a\Desktop\roulette\obj\Debug\net6.0\roulette.AssemblyInfo.cs
+C:\Users\daniel.edwards.638_a\Desktop\roulette\obj\Debug\net6.0\roulette.csproj.CoreCompileInputs.cache
+C:\Users\daniel.edwards.638_a\Desktop\roulette\obj\Debug\net6.0\roulette.dll
+C:\Users\daniel.edwards.638_a\Desktop\roulette\obj\Debug\net6.0\refint\roulette.dll
+C:\Users\daniel.edwards.638_a\Desktop\roulette\obj\Debug\net6.0\roulette.pdb
+C:\Users\daniel.edwards.638_a\Desktop\roulette\obj\Debug\net6.0\roulette.genruntimeconfig.cache
+C:\Users\daniel.edwards.638_a\Desktop\roulette\obj\Debug\net6.0\ref\roulette.dll

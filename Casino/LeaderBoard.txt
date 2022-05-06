@@ -1,0 +1,16 @@
+Name = Kris
+Highest Tokens = 100
+Name = alan
+Highest Tokens = 100
+Name = cody
+Highest Tokens = 120
+Name = kris
+Highest Tokens = 100
+Name = pole
+Highest Tokens = 105
+Name = kris
+Highest Tokens = 100
+Name = daniel
+Highest Tokens = 100
+Name = Daniel
+Highest Tokens = 100
